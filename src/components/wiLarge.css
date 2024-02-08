@@ -1,0 +1,41 @@
+.wLarge{
+    flex: 2;
+    -webkit-box-shadow: 0px 0px 8px 0px rgba(82,163,27,0.93);
+    -moz-box-shadow: 0px 0px 8px 0px rgba(82,163,27,0.93);
+    box-shadow: 0px 0px 8px 0px rgba(82,163,27,0.93);
+    padding: 20px;
+    
+}
+
+.wLTitle{
+    font-weight: 800;
+    font-size: 18px;
+}
+
+.wLtable{
+    margin-top: 20px;
+}
+
+.tButton{
+width: 100px;
+border-radius: 5px;
+font-size: 15px;
+color: aliceblue;
+border: none;
+}
+
+
+    .tButtonApproved {
+        background-color: green;
+        /* Any other specific styles for Approved */
+      }
+      
+      .tButtonPending {
+        background-color: rgb(255, 174, 0);
+        /* Any other specific styles for Pending */
+      }
+      
+      .tButtonDeclined {
+        background-color: red;
+        /* Any other specific styles for Declined */
+      }

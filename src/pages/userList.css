@@ -1,0 +1,63 @@
+.dTable{
+    padding: 20px;
+
+}
+
+.dataGrid{
+    -webkit-box-shadow: 0px 0px 8px 0px rgba(82,163,27,0.93);
+    -moz-box-shadow: 0px 0px 8px 0px rgba(82,163,27,0.93);
+    box-shadow: 0px 0px 8px 0px rgba(82,163,27,0.93);
+    padding: 20px;
+}
+
+.tAvatar{
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.tAvatars{
+display: flex;
+justify-content: center;
+}
+
+.tBtn{
+    cursor: pointer;
+}
+
+.userWidgets{
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: space-between;
+    padding:  15px;
+
+    
+
+}
+
+.widH2{
+    color: rgb(92, 92, 92);
+    font-weight: 400;
+}
+
+.widH23{
+    color: green;
+}
+
+.widgets{
+
+    -webkit-box-shadow: 0px 0px 8px 0px rgba(82,163,27,0.93);
+    -moz-box-shadow: 0px 0px 8px 0px rgba(82,163,27,0.93);
+    box-shadow: 0px 0px 8px 0px rgba(82,163,27,0.93);
+    padding: 10px 50px;
+    width: 23%;
+}
+
+.edit{
+    color: green;
+}
+
+.del{
+    color: red;
+}

@@ -1,0 +1,35 @@
+.products{
+    padding: 20px;
+    margin-top: 20px;
+    display: flex;
+}
+
+.box1{
+    -webkit-box-shadow: 0px 0px 8px 0px rgba(82,163,27,0.93);
+    -moz-box-shadow: 0px 0px 8px 0px rgba(82,163,27,0.93);
+    box-shadow: 0px 0px 8px 0px rgba(82,163,27,0.93);
+    padding: 20px;
+    flex: 1;
+}
+
+.box2{
+    -webkit-box-shadow: 0px 0px 8px 0px rgba(82,163,27,0.93);
+    -moz-box-shadow: 0px 0px 8px 0px rgba(82,163,27,0.93);
+    box-shadow: 0px 0px 8px 0px rgba(82,163,27,0.93);
+    padding: 20px;
+    flex: 3;
+    margin-left: 20px;
+    
+}
+
+.formbox{
+    margin-left: 20px;
+}
+
+.edit{
+    color: green;
+}
+
+.del{
+    color: red;
+}

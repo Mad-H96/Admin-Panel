@@ -1,0 +1,36 @@
+.sales{
+    padding: 20px;
+   display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.table{
+    -webkit-box-shadow: 0px 0px 8px 0px rgba(82,163,27,0.93);
+    -moz-box-shadow: 0px 0px 8px 0px rgba(82,163,27,0.93);
+    box-shadow: 0px 0px 8px 0px rgba(82,163,27,0.93);
+    border-radius: 5px;
+    padding: 20px;
+    margin-right: 20px;
+}
+
+.piChart{
+    -webkit-box-shadow: 0px 0px 8px 0px rgba(82,163,27,0.93);
+    -moz-box-shadow: 0px 0px 8px 0px rgba(82,163,27,0.93);
+    box-shadow: 0px 0px 8px 0px rgba(82,163,27,0.93);
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.tablehead{margin-bottom: 20px;
+}
+
+.bar{
+    -webkit-box-shadow: 0px 0px 8px 0px rgba(82,163,27,0.93);
+    -moz-box-shadow: 0px 0px 8px 0px rgba(82,163,27,0.93);
+    box-shadow: 0px 0px 8px 0px rgba(82,163,27,0.93);
+    padding: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+}
